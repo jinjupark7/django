@@ -8,7 +8,7 @@
 #
 # All configuration values have a default; values that are commented out
 # serve to show the default.
-
+# 호달달
 import functools
 import sys
 from os.path import abspath, dirname, join
